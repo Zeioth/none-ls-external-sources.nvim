@@ -1,4 +1,4 @@
-# none-ls-external-sources
+# [none-ls-external-sources](https://github.com/Zeioth/none-ls-external-sources.nvim)
 All external sources not natively supported by none-ls.
 
 # [none-ls-autoload.nvim](https://github.com/Zeioth/none-ls-autoload.nvim)
