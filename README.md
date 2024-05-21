@@ -40,7 +40,7 @@ While using [none-ls-autoload](https://github.com/Zeioth/none-ls-autoload.nvim) 
 ## How to use none-ls external sources
 On this example, we are loading all available external sources.
 
-```
+```lua
 {
   "zeioth/none-ls-autoload.nvim",
   event = "BufEnter",
