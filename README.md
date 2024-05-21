@@ -35,7 +35,7 @@ All external sources not natively supported by none-ls.
   opts = {},
 },
 ```
-While using `none-ls-autoload` is not mandatory, it's recommended.
+While using [none-ls-autoload](https://github.com/Zeioth/none-ls-autoload.nvim) is not mandatory, it's recommended.
 
 ## How to use none-ls external sources
 On this example, we are loading all available external sources.
