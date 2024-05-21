@@ -84,9 +84,8 @@ On this example, we are loading all available external sources.
 ```
 
 ## How to contribute
-You can contribute by sending a pull request with the source you want to add.
+You can contribute by sending a pull request with the source you want to add. But in order to be accepted, your source will have to:
 
-In order to be accepted, your source will have to:
 * Be in [the right directory](https://github.com/Zeioth/none-ls-external-sources.nvim/tree/main/lua/none-ls-external-sources) (formatting, diagnostics, code_actions)
 * Your source file MUST have the same name as its corresponding mason package.
 * You must manually test it and ensure it works before sending the PR (a screenshot is required).
