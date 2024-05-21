@@ -88,7 +88,7 @@ You can contribute by sending a pull request with the source you want to add. Bu
 
 * Be in [the right directory](https://github.com/Zeioth/none-ls-external-sources.nvim/tree/main/lua/none-ls-external-sources) (formatting, diagnostics, code_actions)
 * Your source file MUST have the same name as its corresponding mason package.
-* You must manually test it and ensure it works before sending the PR (a screenshot is required).
+* You must manually test it and ensure it works before sending the PR (sending a screenshot is encouraged).
 
 An finally, it must not be a supported none-ls [buintin source](https://github.com/nvimtools/none-ls.nvim/tree/main/lua/null-ls/builtins).
 
