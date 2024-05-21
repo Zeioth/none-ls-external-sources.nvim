@@ -35,7 +35,7 @@ All external sources not natively supported by none-ls.
   opts = {},
 },
 ```
-If you prefer, you can load the sources directory withoult `none-ls-autoload`, using pure `none-ls`, but it's not recommended.
+While using `none-ls-autoload` is not mandatory, it's recommended.
 
 ## How to use none-ls external sources
 On this example, we are loading all available external sources.
