@@ -17,7 +17,7 @@ All external sources not natively supported by none-ls.
 
 ## Why
 **Problem**:
-* [none-ls external sources](https://github.com/nvimtools/none-ls-extras.nvim?tab=readme-ov-file#related-projects) are chaotic and often don't follow the directory conventions of none-ls, nor the package names provided by mason, making impossible for package loaders to load them correctly
+* [none-ls external sources](https://github.com/nvimtools/none-ls-extras.nvim?tab=readme-ov-file#related-projects) are chaotic and often don't follow the directory conventions of none-ls, nor the package names provided by mason, making impossible for package loaders to load them correctly.
 
 **Solution**:
 * By having all external sources in a single place, we can ensure a minimum level of quality and compatibility.
