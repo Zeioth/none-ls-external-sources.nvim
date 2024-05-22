@@ -102,7 +102,7 @@ If you want to help me, please star this repository to increase the visibility o
 * **Will you support this repository forever and ever?** No, of course not.
 * **And what can I do if this repository is ever discontinued?** Fork it, and maintain it yourself. As long as you keep the directory structure, you won't break anything.
 * **Will you delete old sources?** Yes, once a source stop being available on mason. This contrast with `none-ls`, which delete any source that has not been updated in more than 1 year, leaving many mason packages without support.
-* **X source from this repository is not on mason anymore**: Then please open an issue and report it, or ideally send a PR to delete it.
+* **X source from this repository is not on mason anymore**: Then please open an issue and report it, or if you are a chad send a PR deleting it.
 
 ## Related projects
 
