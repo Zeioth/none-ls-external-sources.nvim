@@ -90,7 +90,7 @@ You can contribute by sending a pull request with the source you want to add. Bu
 * Your source file MUST have the same name as its corresponding mason package.
 * You must manually test it and ensure it works before sending the PR (sending a screenshot is encouraged).
 
-And finally, it must not be a supported none-ls [buintin source](https://github.com/nvimtools/none-ls.nvim/tree/main/lua/null-ls/builtins).
+And finally, it must not be an already supported none-ls [buintin source](https://github.com/nvimtools/none-ls.nvim/tree/main/lua/null-ls/builtins).
 
 ## 🌟 Support the project
 If you want to help me, please star this repository to increase the visibility of the project.
