@@ -1,5 +1,5 @@
 # [none-ls-external-sources](https://github.com/Zeioth/none-ls-external-sources.nvim)
-All external sources not natively supported by none-ls.
+All external sources non natively supported by none-ls.
 
 <div align="center">
   <a href="https://discord.gg/ymcMaSnq7d" rel="nofollow">
